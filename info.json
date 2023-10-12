@@ -1,0 +1,19 @@
+{
+	"name": "shattered-lands",
+	"version": "0.1.2",
+	"title": "Shattered Lands Pack",
+	"author": "unique2",
+	"dependencies": [
+    "base >= 1.1.87",
+	"shattered-lands-terrain >= 0.1.0",
+	"lex-aircraft >= 1.1.1",
+	"bulkteleport >= 0.3.0",
+	"Hovercrafts >= 1.2.2",
+	"jump-and-swing >= 0.1.3",
+	"?lob >= 1.1.6",
+	"SpidertronPatrols >= 2.4.9",
+	"?ProductionScrap2 >= 0.0.1"
+	],
+	"description": "The planet you landed on has deep chasms and is full of rocks and cliffs. Traveling and moving resources will be a challenge. Good thing you have some technologies to help you. ",
+	"factorio_version": "1.1"
+}

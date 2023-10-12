@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 2023.10.07
+  Info:
+    - This mod now serves as a modpack that doesn't do anything except install other mods.
+    - Terrain generation and adjustments of other mods are moved into shattered-lands-terrain mod.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2023.09.30
+  Info:
+    - Modify menu simulations from base game.
+    - Replace aircrafts mod with Lex's airships mod.
+    - Fix bug where the inventory of item teleporters wasn't adjusted properly.
+    - Optionally support Production Scrap 2
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2023.09.30
+  Info:
+    - Initial Release
